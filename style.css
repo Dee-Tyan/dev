@@ -1,0 +1,23 @@
+
+
+body {
+    font-family: 'Fraunces', serif;
+    background-color: #F2F2F2;
+}
+
+header {
+    background-image: url(images/mae-mu-1APtYqzNajA-unsplash.png);
+    background-repeat: no-repeat;
+}
+
+header div ul li {
+    text-decoration: none;
+}
+
+div .graphics {
+    background-image: url(images/mae-mu-vbAEHCrvXZ0-unsplash.png);
+}
+
+div .photography {
+    background-image: url(images/mae-mu-U1iYwZ8Dx7k-unsplash.png);
+}
